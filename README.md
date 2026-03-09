@@ -7,4 +7,4 @@ Data cleaning for housing dataset.
 Used Postgresql for data analysis and PowerBI for visualization.
 
 **Dashboard:**
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9ee8a089-790b-4176-80db-b61a70e600f5" />
+<img width="1281" height="720" alt="image" src="https://github.com/user-attachments/assets/0c8009a3-f4ee-4758-9fd5-f9e624e05851" />
